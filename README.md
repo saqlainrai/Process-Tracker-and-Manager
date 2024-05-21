@@ -1,6 +1,8 @@
 
-### Process Tracker and Manager
-#### OS Lab Project
+<div align="center">
+<h2> Process Tracker and Manager </h2>
+<h3> OS Lab Project </h3>
+</div>
 
 #### Supervised By:
 Ma'am Abqa Javed
